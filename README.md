@@ -1,7 +1,6 @@
 # Logtick JSON
 
-> Transform [logtic-parser](https://www.npmjs.com/package/logtick-parser) to JSON
-> Output
+> Transform [logtick-parser](https://www.npmjs.com/package/logtick-parser) output to JSON
 
 ## Install
 
