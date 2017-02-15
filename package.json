@@ -1,0 +1,23 @@
+{
+  "name": "logtick-json",
+  "version": "1.0.0",
+  "description": "Transform Logtick output to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lestoni/logtick-json.git"
+  },
+  "keywords": [
+    "logtick",
+    "json"
+  ],
+  "author": "Tony Mutai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestoni/logtick-json/issues"
+  },
+  "homepage": "https://github.com/lestoni/logtick-json#readme"
+}
